@@ -47,12 +47,10 @@ print('The Q Matrix is')
 print(f' {q}')
 print('The R Matrix is')
 print(f' {r}')
-
-
-
-
-
 ```
+
+
+
 
 ## Output
 <img width="1258" height="810" alt="image" src="https://github.com/user-attachments/assets/d0efc65f-b977-4100-ab51-3b04ec834bc7" />
